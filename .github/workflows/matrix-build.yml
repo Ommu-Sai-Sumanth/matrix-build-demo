@@ -38,5 +38,3 @@ jobs:
           name: build-52cbfd7-v${{ matrix.node-version }}
           path: output-${{ matrix.node-version }}.txt
 
-
-^X
